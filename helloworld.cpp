@@ -1,5 +1,8 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, Woreeld!" << std::endl;
+    int x = 5;
+
+    std::cout << x;
+    return 0;
 }
